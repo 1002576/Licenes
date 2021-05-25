@@ -3,7 +3,7 @@
 name: Liby 
 
 # Controls when the action will run. 
-on:6974249
+on:B74249
   # Triggers the workflow on push or pull request events but only for the main branch
   push: 
     branches: [ 2695 ]
@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: 
            Add other actions to blood type +B
-          echo test,01/04/2000 and deploy your project.
+          echo test,01/AbriL/2000 and deploy your project.
